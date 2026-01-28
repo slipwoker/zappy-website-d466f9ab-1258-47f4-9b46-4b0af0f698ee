@@ -1,0 +1,54 @@
+# baduk imports בדוק ייבוא — Generative Engine Optimization Map
+
+> A ציוד כבד ומכונות חפירה business.
+
+---
+
+## Pages
+
+### Home
+https://baduk-imports-d466f9ab.zappy5.app
+
+### Equipment
+https://baduk-imports-d466f9ab.zappy5.app/equipment
+
+### About
+https://baduk-imports-d466f9ab.zappy5.app/about
+
+### Contact
+https://baduk-imports-d466f9ab.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://baduk-imports-d466f9ab.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://baduk-imports-d466f9ab.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://baduk-imports-d466f9ab.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About baduk imports בדוק ייבוא
+baduk imports בדוק ייבוא is a business in the ציוד כבד ומכונות חפירה industry.
+
+## Target Audience
+- קבלני בנייה
+- חברות גינון ופיתוח נוף
+
+## Industry
+ציוד כבד ומכונות חפירה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://baduk-imports-d466f9ab.zappy5.app/sitemap.xml
+- **Robots.txt**: https://baduk-imports-d466f9ab.zappy5.app/robots.txt

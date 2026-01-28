@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://baduk-imports-d466f9ab.zappy5.app/sitemap.xml
